@@ -29,7 +29,7 @@ export class PVP
     /**
      * How close the bot will attempt to get to the target when when pursuing it.
      */
-    followRange: number = 2;
+    followRange: number = 1;
 
     /**
      * How far away the target entity must be to lose the target. Target entities further than this
